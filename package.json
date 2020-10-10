@@ -11,7 +11,9 @@
   "author": "Matthew Slipper <me@matthewslipper.com>",
   "license": "MIT",
   "dependencies": {
-    "blake2": "4.0.0"
+    "blake2": "4.0.0",
+    "robotjs": "^0.6.0",
+    "video-stream-merger": "^3.6.3"
   },
   "devDependencies": {
     "electron": "6.0.9",
